@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color:rgb(251, 74, 42);
+  color: white;
+  padding: 5px;
+}
+.header_right {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 10px;
+  width: 50%;
+}
+.header_right a{
+  color: white;
+  text-decoration: none;
+}
